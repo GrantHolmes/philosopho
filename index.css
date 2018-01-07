@@ -1,0 +1,7 @@
+.display-4{
+  display: inline-block;
+  text-align: center;
+}
+.nav-item{
+  float: right;
+}
